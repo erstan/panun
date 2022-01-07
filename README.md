@@ -1,7 +1,7 @@
 # Panun Kaeshur Keyboard
 A Kashmiri keyboard for English typists.
 ### Installation
-Clone the repository or simply extract the [ZIP](https://https://github.com/erstan/panun/archive/refs/heads/e_t.zip), and run the setup file located in the `./build` directory. 
+Clone the repository or simply extract the [ZIP](https://github.com/erstan/panun/archive/refs/heads/e_t.zip), and run the setup file located in the `./build` directory. 
 ### Layout
 #### Main
 The main layout looks like this : 
