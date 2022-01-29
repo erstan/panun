@@ -17,7 +17,7 @@ When <kbd>AltGr</kbd> is held down, the layout switches to this :
 
 #### Supported characters
 ##### Letters
-> ا ب پ ت ٹ ث ج چ ح خ د ڈ ذ ر ڑ ز ژ س ش ص ض ط ظ ع غ ف ق ک گ ل م ن ں و ۅ ہ ھ ء ی ۍ ؠ ے 
+> ا ب پ ت ٹ ث ج چ ح خ د ڈ ذ ر ڑ ز ژ س ش ص ض ط ظ ع غ ف ق ک گ ل م ن ں و ۅ ہ ھ ء ی ئ ؠ ے 
 ##### Special Letters (AltGr+Key)
 > ۆ  ێ  ۯ 
 ##### Diacritics
@@ -68,8 +68,11 @@ The diacritics have been used with `ا`, the first letter of the Kashmiri alphab
 |DOACHASHMEE|/h, ɦ/ or /ʰ, ʱ/|ھ | <kbd>Shift</kbd>+<kbd>o</kbd>  | 
 |HAMZA|/ʔ/, ∅|ء | <kbd>Shift</kbd>+<kbd>h</kbd>  | 
 |FARSI YEH|/j, iː, aː/ | ی | <kbd>i</kbd> | 
-|KASHMIRI YEH| | ؠ | <kbd>Shift</kbd>+<kbd>y</kbd>  | 
+|YEH WITH A TAIL | | ۍ  | <kbd>Shift</kbd><kbd>i</kbd> | 
+|YEH WITH HAMZA ABOVE| | ئ | <kbd>AltGr</kbd><kbd>i</kbd>
 |YEH|/ɛː, eː/|ے | <kbd>y</kbd> | 
+|KASHMIRI YEH| | ؠ | <kbd>Shift</kbd>+<kbd>y</kbd>  | 
+
 
 ##### Diacritics
 | Diacritic Name | Kashmiri glyph | English Key |
@@ -83,13 +86,12 @@ The diacritics have been used with `ا`, the first letter of the Kashmiri alphab
 |WAVY HAMZA SUBSCRIPT| ٟ| <kbd>@</kbd> | 
 | INVERTED 'v' MARK |  ٛ | <kbd>^</kbd> | 
 | LITTLE 'v' MARK |  ٚ | <kbd>AltGr</kbd>+<kbd>v</kbd> |
-|FATHATAN| ٍ |  <kbd>'</kbd> | 
-|KASRATAN|  ً| <kbd>AltGr</kbd>+<kbd>'</kbd>| 
+|KHADA ZABAR| ٰ |  <kbd>'</kbd> | 
+|KHADA ZE'ER|ٖ | <kbd>Shift</kbd>+<kbd>'</kbd>|
 
 ##### Special letters
 | Letter Name | IPA | Kashmiri glyph | English Key |
 | ----------- | --- | -------------- | ----------- | 
 | | | ٲ | <kbd>Shift</kbd>+<kbd>e</kbd> | 
 | | | ۯ | <kbd>AltGr</kbd>+<kbd>r</kbd> |
-| | | ێ | <kbd>AltGr</kbd>+<kbd>i</kbd> | 
 | | | ۆ | <kbd>AltGr</kbd>+<kbd>v</kbd> | 
